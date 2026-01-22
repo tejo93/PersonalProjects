@@ -1,4 +1,8 @@
+*PERM Case Search tool*
+
 ```java
+pip3 install selenium
+pip3 install tabulate
 python3 caseSearch.py
 Enter case number (e.g., G-100-12345-123456): G-100-12345-123456
 ```
